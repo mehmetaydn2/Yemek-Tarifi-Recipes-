@@ -1,0 +1,10 @@
+# görseller
+*.log
+*.png
+*.jpg
+*.jpeg
+
+# Klasörler
+./İmages
+README.md
+
